@@ -18,6 +18,6 @@ public class Controldeversiones {
         // TODO code application logic here
         System.out.println("version 1");
         System.out.println("version 2");
-        System.out.println("");
+       
     }        
 }
